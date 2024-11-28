@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:recipe/consent/colors.dart';
 
 PreferredSizeWidget appbar() {
   return AppBar(
